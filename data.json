@@ -1,4 +1,8 @@
 {
+  "enableCreateAnchorLink": true,
+  "enableCreateAnchorQuote": true,
+  "enableCreateBlockLink": true,
+  "enableCreateBlockQuote": true,
   "enableCreateAnchorLinkMenu": true,
   "enableCreateBlockLinkMenu": true,
   "enableCreateAnchorQuoteMenu": true,

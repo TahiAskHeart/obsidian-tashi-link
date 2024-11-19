@@ -1,11 +1,11 @@
 {
 	"id": "tashi-link",
 	"name": "Tashi Link",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "根据所选的内容创建链接",
+	"description": "自用插件，根据选中的文本创建链接",
 	"author": "扎西·无妄",
-	"authorUrl": "",
+	"authorUrl": "https://gitee.com/zhaxiwenxin/obsidian-tashi-link",
 	"fundingUrl": "",
 	"isDesktopOnly": false
 }
