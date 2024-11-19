@@ -1,0 +1,7 @@
+{
+  "enableCreateAnchorLinkMenu": true,
+  "enableCreateBlockLinkMenu": true,
+  "enableCreateAnchorQuoteMenu": true,
+  "enableCreateBlockQuoteMenu": true,
+  "enableRightClickMenu": true
+}
