@@ -1,11 +1,11 @@
-# obsidian-tashi-link
+# Obsidian-Select-Create-Link
 
-自用插件，根据所选的内容创建链接、引用等。
+自用插件，根据选择的文本创建链接。
 
 1.选择内容 → 鼠标右键 → 创建链接 → 空格选择 → 回车确认！ 
 
-![tashi-link](obsidian-tashi-link.gif)
+![image1](image1.gif)
 
-2.适配移动端，需手动添加到 移动端工具栏。
+2.适配移动端，需手动添加到移动端工具栏。
 
-![输入图片说明](image.png)
+![image2](image2.png)
