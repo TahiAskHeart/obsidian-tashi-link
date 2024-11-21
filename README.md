@@ -8,4 +8,4 @@
 
 2.适配移动端，需手动添加到 移动端工具栏。
 
-![Mobile-Toolbar](Mobile-Toolbar.png)
+<img alt="Mobile-Toolbar" src="/TashiWuWang/obsidian-tashi-link/raw/master/Mobile-Toolbar.png" style="width: 450px;">
