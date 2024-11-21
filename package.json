@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-tashi-link",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "自用插件，根据选中的文本创建链接",
 	"main": "main.js",
 	"scripts": {
@@ -8,7 +8,9 @@
 		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	},
-	"keywords": ["链接"],
+	"keywords": [
+		"链接"
+	],
 	"author": "扎西·无妄",
 	"license": "MIT",
 	"devDependencies": {
