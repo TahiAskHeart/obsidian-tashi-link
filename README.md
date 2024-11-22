@@ -6,11 +6,12 @@
 
 没找到调用搜索列表方法，只好手动按空格触发了。
 
-![image1](image1.gif)
+![image1](media/演示.gif)
+
 
 ## 2.适配移动端，需手动添加到移动端工具栏。
 
-![image2](image2.png)
+![image2](media/移动工具栏.jpg)
 
 ## 3.插件语法来源
 
@@ -18,8 +19,8 @@
 
 ### `[[##标题]]`
 
-![[[##标题]]](image3.png)
+![image2](media/标题.png)
 
 ### `[[^^块标识符]]`
 
-![[[^^块标识符]]](image4.png)
+![image2](media/块标识符.png)
