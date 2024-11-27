@@ -133,7 +133,7 @@ export default class SelectCreateLink extends Plugin {
 						.onClick(() => {
 							editor.replaceSelection(replaceText);
 							const cursorPosition = editor.getCursor();
-							editor.setCursor({ line: cursorPosition.line, ch: cursorPosition.ch - selectText.length });
+							editor.setCursor({ line: cursorPosition.line, ch: cursorPosition.ch - 2 });
 						});
 				});
 			}
@@ -187,7 +187,7 @@ export default class SelectCreateLink extends Plugin {
 						.onClick(() => {
 							editor.replaceSelection(replaceText);
 							const cursorPosition = editor.getCursor();
-							editor.setCursor({ line: cursorPosition.line, ch: cursorPosition.ch - selectText.length });
+							editor.setCursor({ line: cursorPosition.line, ch: cursorPosition.ch - 2 });
 						});
 				});
 			}
@@ -248,7 +248,7 @@ export default class SelectCreateLink extends Plugin {
 
 						editor.replaceSelection(replaceText);
 						const cursorPosition = editor.getCursor();
-						editor.setCursor({ line: cursorPosition.line, ch: cursorPosition.ch - selectText.length });
+						editor.setCursor({ line: cursorPosition.line, ch: cursorPosition.ch - 2 });
 
 					} else {
 						new Notice("请选择创建锚引用 ![[##文本]]的文本");
@@ -307,7 +307,7 @@ export default class SelectCreateLink extends Plugin {
 
 						editor.replaceSelection(replaceText);
 						const cursorPosition = editor.getCursor();
-						editor.setCursor({ line: cursorPosition.line, ch: cursorPosition.ch - selectText.length });
+						editor.setCursor({ line: cursorPosition.line, ch: cursorPosition.ch - 2 });
 					} else {
 						new Notice(`请选择创建块引用 ![[^^文本]]的文本`);
 					}
